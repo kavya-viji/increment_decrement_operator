@@ -1,6 +1,15 @@
+var x = 5;
+console.log(x++);
+console.log(x);
 
-var num1=5;
-console.log(num1++);
-//console.log(num1);
-//console.log(--num1);
-//console.log(num1);
+var x = 6;
+console.log(++x);
+console.log(x);
+ 
+var x = 7;
+console.log(x--);
+console.log(x);
+
+var x = 5;
+console.log(--x);
+console.log(x);
